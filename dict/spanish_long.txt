@@ -16,6 +16,7 @@ administrar
 agenda
 agente
 agentes
+agregar
 agrupar
 alias
 almacen
@@ -152,6 +153,7 @@ edicion
 editar
 ejemplo
 ejemplos
+eliminar
 empresa
 empresas
 enlace
